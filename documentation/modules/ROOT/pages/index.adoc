@@ -1,5 +1,4 @@
 = Welcome to the Validated Patterns Workshop
-:page-layout: home
 :!sectids:
 
 [.text-center.strong]
