@@ -1,6 +1,6 @@
 name: template-tutorial
 title: Template Tutorial
-version: master
+version: main
 nav:
   - modules/ROOT/nav.adoc
 
