@@ -4,10 +4,10 @@ include::_attributes.adoc[]
 [#prerequisite]
 == Prerequisite CLI tools
 
-include::https://raw.githubusercontent.com/redhat-developer-demos/rhd-tutorial-common/master/prerequisites-kubernetes.adoc[]
+include::https://raw.githubusercontent.com/redhat-developer-demos/rhd-tutorial-common/main/prerequisites-kubernetes.adoc[]
 |===
 
-include::https://raw.githubusercontent.com/redhat-developer-demos/rhd-tutorial-common/master/optional-requisites.adoc[]
+include::https://raw.githubusercontent.com/redhat-developer-demos/rhd-tutorial-common/main/optional-requisites.adoc[]
 |===
 
 [#minikube]
@@ -15,7 +15,7 @@ include::https://raw.githubusercontent.com/redhat-developer-demos/rhd-tutorial-c
 
 :profile: my_profile
 
-include::https://raw.githubusercontent.com/redhat-developer-demos/rhd-tutorial-common/master/kubernetes-setup.adoc[]
+include::https://raw.githubusercontent.com/redhat-developer-demos/rhd-tutorial-common/main/kubernetes-setup.adoc[]
 
 And then you are ready for start using Kubernetes:
 
@@ -26,4 +26,4 @@ image::kubelogo.png[]
 
 :tutorial-url: https://github.com/redhat-developer-demos/rhd-tutorial-common.git
 :folder: my_folder
-include::https://raw.githubusercontent.com/redhat-developer-demos/rhd-tutorial-common/master/download-sources.adoc[]
+include::https://raw.githubusercontent.com/redhat-developer-demos/rhd-tutorial-common/main/download-sources.adoc[]
