@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://day0hero.github.io/jrock/validated-patterns-workshop/main/01-exercises.html</loc>
+<lastmod>2024-08-13T12:52:14.324Z</lastmod>
+</url>
+<url>
 <loc>https://day0hero.github.io/jrock/validated-patterns-workshop/main/01-setup.html</loc>
-<lastmod>2024-08-12T23:19:40.607Z</lastmod>
+<lastmod>2024-08-13T12:52:14.324Z</lastmod>
 </url>
 <url>
 <loc>https://day0hero.github.io/jrock/validated-patterns-workshop/main/02-deploy.html</loc>
-<lastmod>2024-08-12T23:19:40.607Z</lastmod>
+<lastmod>2024-08-13T12:52:14.324Z</lastmod>
+</url>
+<url>
+<loc>https://day0hero.github.io/jrock/validated-patterns-workshop/main/02-exercises.html</loc>
+<lastmod>2024-08-13T12:52:14.324Z</lastmod>
 </url>
 <url>
 <loc>https://day0hero.github.io/jrock/validated-patterns-workshop/main/index.html</loc>
-<lastmod>2024-08-12T23:19:40.607Z</lastmod>
+<lastmod>2024-08-13T12:52:14.324Z</lastmod>
 </url>
 </urlset>
